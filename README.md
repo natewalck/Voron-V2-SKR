@@ -39,7 +39,7 @@ E1_UART_TX         1.4
 
 HE1                2.4    
 HE0                2.7
-BED                2.5
+BED                2.3
 TH1 (H1 Temp)      0.25
 TH0 (H0 Temp)      0.24
 TB  (Bed Temp)     0.23
